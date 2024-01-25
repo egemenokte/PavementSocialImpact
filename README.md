@@ -1,6 +1,6 @@
 # Pavement Social Impact
 
-This repository contains the code used in the study titled [A quantitative methodology for measuring the social sustainability of pavement deterioration] (https://doi.org/10.1038/s41598-024-52655-7)
+This repository contains the code used in the study titled [A quantitative methodology for measuring the social sustainability of pavement deterioration](https://doi.org/10.1038/s41598-024-52655-7)
 
 ## Description
 This study introduces a methodology to quantify the impact of road condition on vulnerable communities, specifically Environmental Justice (EJ) communities. It analyzes fuel consumption for road users during recurrent home-work trips as a function of pavement condition for EJ and non-EJ communities. 
