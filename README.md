@@ -18,6 +18,7 @@ The files used for this study are stored in:
 
 ## Citation
 If you use this code or the methodology in your research, please cite the following paper:
+
 Egemen Okte, Jessica Boakye, & Mark Behrend. (2024). A quantitative methodology for measuring the social sustainability of pavement deterioration. *Scientific Reports, 14*(2112). https://doi.org/10.1038/s41598-024-52655-7
 
 @article{Okte2024Quantitative,
