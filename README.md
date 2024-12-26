@@ -34,7 +34,7 @@ If you use this code or the methodology in your research, please cite one or bot
   doi={10.1038/s41598-024-52655-7}
 }
 
-@article{Okte2024Quantitative,
+@article{Boakye2024Impacts,
   title={Which Impacts Matter for Pavement Management Decisions? Quantifying Social Sustainability Based on a Capability Approach},
   author={Boakye, Jessica and Okte, Egemen},
   journal={Transportation Research Interdisciplinary Perspectives},
