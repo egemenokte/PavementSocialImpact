@@ -17,9 +17,11 @@ The files used for this study are stored in:
 - Trip data: [Google Drive - Trips](https://drive.google.com/drive/folders/1wz2_TlpEbhe_jiI2guqzhktK_5E48Joq?usp=sharing)
 
 ## Citation
-If you use this code or the methodology in your research, please cite the following paper:
+If you use this code or the methodology in your research, please cite one or both of the following papers:
 
-Egemen Okte, Jessica Boakye, & Mark Behrend. (2024). A quantitative methodology for measuring the social sustainability of pavement deterioration. *Scientific Reports, 14*(2112). https://doi.org/10.1038/s41598-024-52655-7
+* Egemen Okte, Jessica Boakye, & Mark Behrend. (2024). A quantitative methodology for measuring the social sustainability of pavement deterioration. *Scientific Reports, 14*(2112). https://doi.org/10.1038/s41598-024-52655-7
+
+* Jessica Boakye, & Egemen Okte. (2024). Which Impacts Matter for Pavement Management Decisions? Quantifying Social Sustainability Based on a Capability Approach. *Transportation Research Interdisciplinary Perspectives*. https://doi.org/10.1038/s41598-024-52655-7
 
 @article{Okte2024Quantitative,
   title={A quantitative methodology for measuring the social sustainability of pavement deterioration},
@@ -30,4 +32,12 @@ Egemen Okte, Jessica Boakye, & Mark Behrend. (2024). A quantitative methodology 
   year={2024},
   publisher={Nature Publishing Group},
   doi={10.1038/s41598-024-52655-7}
+}
+
+@article{Okte2024Quantitative,
+  title={Which Impacts Matter for Pavement Management Decisions? Quantifying Social Sustainability Based on a Capability Approach},
+  author={Boakye, Jessica and Okte, Egemen},
+  journal={Transportation Research Interdisciplinary Perspectives},
+  year={2024},
+  publisher={Elsevier}
 }
