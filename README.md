@@ -21,7 +21,7 @@ If you use this code or the methodology in your research, please cite one or bot
 
 * Egemen Okte, Jessica Boakye, & Mark Behrend. (2024). A quantitative methodology for measuring the social sustainability of pavement deterioration. *Scientific Reports, 14*(2112). https://doi.org/10.1038/s41598-024-52655-7
 
-* Jessica Boakye, & Egemen Okte. (2024). Which Impacts Matter for Pavement Management Decisions? Quantifying Social Sustainability Based on a Capability Approach. *Transportation Research Interdisciplinary Perspectives*. https://doi.org/10.1038/s41598-024-52655-7
+* Jessica Boakye, & Egemen Okte. (2024). Which Impacts Matter for Pavement Management Decisions? Quantifying Social Sustainability Based on a Capability Approach. *Transportation Research Interdisciplinary Perspectives*.
 
 @article{Okte2024Quantitative,
   title={A quantitative methodology for measuring the social sustainability of pavement deterioration},
